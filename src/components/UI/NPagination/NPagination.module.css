@@ -1,0 +1,21 @@
+.pageWrapper {
+    display: flex;
+    margin-top: 30px;
+}
+
+.page {
+    border: 1px solid gold;
+    padding: 5px 10px;
+    margin: 0 3px;
+    cursor: pointer;
+}
+
+.pageCurrent {
+    background: gold;
+    color: #fff;
+}
+
+.disabled {
+    pointer-events: none;
+    opacity: .7;
+}

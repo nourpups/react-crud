@@ -1,0 +1,14 @@
+.navbar_links {
+    padding: 10px 15px;
+    font-size: 1.25rem;
+    color: #000;
+    margin: 0 5px;
+    text-decoration: none;
+    transition: .2s linear;
+    box-shadow: 0 4px 10px rgba(148,148,148,.3);
+}
+
+.navbar_links:hover {
+    background: rgba(0, 0, 0, .1);
+
+}

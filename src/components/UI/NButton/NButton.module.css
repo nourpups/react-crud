@@ -1,0 +1,7 @@
+.nBtn {
+    padding: 5px 15px;
+    font-size: 0.8rem;
+    background: transparent;
+    border: 1px solid gold;
+    cursor: pointer;
+}
